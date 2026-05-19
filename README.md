@@ -23,7 +23,7 @@
 - 🎮 Built a **React game platform** for 200+ live IEEE event users with zero downtime
 - 🌍 Open-source contributor — **PR merged into TravelGrid main** (GSSoC '24)
 - 📗 Co-authored a **published book chapter**: *"AI in Agriculture"* (2024)
-- 🔭 Currently learning: **Java DSA** + System Design basics
+- 🔭 Currently learning: **Java DSA** + **Redux**
 - 📡 IEEE Web Development Coordinator — 4+ events, 300+ attendees
 
 ---
@@ -43,6 +43,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
 
 ### Auth, Storage & Tools
@@ -54,7 +55,7 @@
 
 ### Currently Learning
 ![Java](https://img.shields.io/badge/Java_DSA-007396?style=flat-square&logo=openjdk&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-6C3483?style=flat-square&logo=buffer&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 </div>
 
@@ -93,7 +94,7 @@ React multi-stage game platform built for IEEE WIE Week — served 200+ live use
 - 📈 40%+ jump in event participation vs. prior year
 - 📱 Fully responsive with smooth state transitions
 
-`React.js` `JavaScript` `Responsive Design`
+`React.js` `JavaScript` `Bootstrap`
 
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/SanviAswal23/IEEE)
 
